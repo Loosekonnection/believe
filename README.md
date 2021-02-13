@@ -15,6 +15,15 @@ useful motivational/informative pages.
 
 ---
 
+## Contributors.
+
+*  [Maryum97](https://github.com/Maryum97)
+*  [sallyxp](https://github.com/sallyxp)
+*  [Robbie-Bridgewater](https://github.com/Robbie-Bridgwater)
+
+
+---
+
 ## Pseudo Code
 The website principally has 3 pages: 
 
